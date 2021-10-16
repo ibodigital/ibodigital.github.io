@@ -6,12 +6,17 @@ trustkey supports the management of both users of your organization in addition 
 ## Roles
 
 
-trustkey has 2 pre-configured permission groups.
+trustkey has 6 pre-configured roles as well as the possibility to create custom roles.
 
-- Internal
-- External
+- Global Admin
+- User Admin
+- Manager
+- Collaborator
+- User
+- External Partner
+- Custom…
 
-The external permission group has the following pre-configured restrictions
+The External Partner group has the following pre-configured restrictions
 
 * Cannot share content with other users  (Sharing is not available)
 * Cannot view any user lists  (thus cannot see members or groups of your trustkey environment)
