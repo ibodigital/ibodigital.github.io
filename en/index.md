@@ -20,8 +20,8 @@
 - Admin Center
     
     - User Management
-        - [Add User](admin/user/add)
-        - [User List](admin/user/
+        - [Create or Manager Users](admin/user/manage)
+        - [User List](admin/user/)
         - Groups
         
     - Category Management
@@ -39,7 +39,7 @@
 
     - Subscription
     
-    - [Support](support/index)
+    - [Support](admin/support)
 
 
 
