@@ -7,6 +7,8 @@
 
 - Workspace
 
+
+
 - Knowledge Base
 
 - Analytics
@@ -18,8 +20,8 @@
 - Admin Center
     
     - User Management
-        - [Add User](admin/user/add.md)
-        - User List
+        - [Add User](admin/user/add)
+        - [User List](admin/user/
         - Groups
         
     - Category Management
@@ -29,7 +31,17 @@
     - Sharing
         - Viewing Shared Links
     
-            
+    - Compliance
+        - Company Profile
+        - Organization Settings
+        - ERP
+        - Customized Theme            
+
+    - Subscription
+    
+    - [Support](support/index)
+
+
 
 ## Welcome to GitHub Pages
 
