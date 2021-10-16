@@ -3,7 +3,7 @@
 trustkey supports the management of both users of your organization in addition to those external to your organization such as partner, suppliers and contractors.
 
 
-## Permissions
+## Roles
 
 
 trustkey has 2 pre-configured permission groups.
