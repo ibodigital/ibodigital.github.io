@@ -10,29 +10,38 @@
     - [Manage your Boards](workspace-board-manage)
 
 
+
 - Knowledge Base
+
 
 - Analytics
 
+
 - Builder
 
+
 - Archive
+
 
 - Profile
     - [Changing Language](profile-language)
     - [Changing Timezone](profile-timezone)
+    - [Change Password](profile-password)
 
 - Admin Center
     
     - User Management
         - [Create or Manager Users](admin-user-manage)
         - [Create or Manage Groups](admin-groups-manage)
+
         
     - Category Management
         - [Create or Manage Categories](admin-category-manage)
+
         
     - Sharing
         - [View or Manage Shared Links](admin-shared-links-manage)
+
     
     - Compliance
         - [Company Profile]
@@ -40,7 +49,9 @@
         - ERP
         - Customized Theme            
 
+
     - Subscription
+
     
     - [Support](support)
 
