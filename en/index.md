@@ -6,7 +6,8 @@
 
 
 - Workspace
-
+    - [Create a Board](workspace-board-create)
+    - [Manage your Boards](workspace-board-manage)
 
 
 - Knowledge Base
@@ -17,29 +18,31 @@
 
 - Archive
 
+- Profile
+    - [Changing Language](profile-language)
+    - [Changing Timezone](profile-timezone)
+
 - Admin Center
     
     - User Management
-        - [Create or Manager Users](admin/user/manage)
-        - [User List](admin/user/)
-        - Groups
+        - [Create or Manager Users](admin-user-manage)
+        - [Create or Manage Groups](admin-groups-manage)
         
     - Category Management
-        - Add Category
-        - Category List
+        - [Create or Manage Categories](admin-category-manage)
         
     - Sharing
-        - Viewing Shared Links
+        - [View or Manage Shared Links](admin-shared-links-manage)
     
     - Compliance
-        - Company Profile
+        - [Company Profile]
         - Organization Settings
         - ERP
         - Customized Theme            
 
     - Subscription
     
-    - [Support](admin/support)
+    - [Support](support)
 
 
 
