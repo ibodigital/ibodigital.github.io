@@ -24,6 +24,9 @@
     - [Add Templates to a Board](builder-board-add-template)
     
     
+- Integration
+    - [Send Attachments to Sharepoint](integration-attachments-sharepoint)    
+    
     
 - Archive
 
