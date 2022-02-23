@@ -3,9 +3,7 @@
 
 Rollen und Berechtigungen können in trustkey auf verschiedenen Ebenen gesteuert werden:
 
-## Admin
-
-- 
+### Admin
 
 
 
@@ -74,3 +72,5 @@ Rollen und Berechtigungen können in trustkey auf verschiedenen Ebenen gesteuert
 
 > **Hinweis**:
 > Gäste - also Nutzer ohne Lizenz - können nur Empfänger, Mitwirkender oder Leser eines Aktionspakets sein und können Kommentare weder einsehen noch nutzen.
+
+### Workspace - Board-Ebene (B-) - Mitglieder:
