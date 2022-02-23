@@ -14,6 +14,11 @@ Um ein Template zu erstellen gehen wir wie folgt vor:
 1. Sie können noch Informationen zu dieser Version des Templates hinterlegen und mit **Veröffentlichen** bestätigen Sie die Veröffentlichung.
 1. Das Template ist veröffentlicht und kann jetzt verwendet werden.
 
-Weiter zu
+>**Hinweise für Experten**
+>- Templates können immer wieder angepasst werden. Mit jeder Veröffentlichung erhält das Template eine fortlaufende Version.
+>- Template Besitzer, Bearbeiter und Leser werden automatisch über Änderungen und Veröffentlichungen informiert.
+>- Verlinkungen auf das Template (z.B. auf Boards und Wissenseiten) werden automatisch aktualisiert.
+>- Nutzer von laufenden Aktionspaketen werden automatisch über das Vorhandensein einer neuen Version des verwendeten Templates informiert und können das aktuelle Aktionspaket ohne Informationsverlust auf die neueste Version anpassen.
+
 
 zurück zu [Inhaltsverzeichnis](index.md)
