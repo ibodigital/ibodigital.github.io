@@ -1,5 +1,5 @@
 
-# Inhalt
+Builder: Template erstelen
 
 Um ein Template zu erstellen gehen wir wie folgt vor:
 
