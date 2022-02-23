@@ -1,5 +1,12 @@
 
-# Inhalt trustkey Hilfe
+# Inhalt
+
+**Vorwort**
+Wir freuen uns, dass Sie **trustkey** nutzen!
+Wir wünschen Ihnen viel Spaß bei der Nutzung.
+
+Sollten Sie nicht hier die richtige Antwort auf Ihre Frage finden, erreichen Sie uns über support@trustkey.eu.
+Wir versuchen Ihre Frage so schnell wie möglich zu beantworten.
 
 - Was ist trustkey, und wofür brauche ich es?
 - trustkey - Wir verschaffen uns einen Überblick
