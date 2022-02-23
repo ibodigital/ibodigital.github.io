@@ -9,3 +9,4 @@
   - Aktionspaket bearbeiten
   - Aktionspaket abschliessen
   - Aktionspaket wiederfinden
+  - Template anpassen
