@@ -17,3 +17,9 @@ Wir versuchen Ihre Frage so schnell wie möglich zu beantworten.
   - Aktionspaket abschliessen
   - Aktionspaket wiederfinden
   - Template anpassen
+- Die wichtigsten Grundlagen und Bereiche für trustkey-Abläufe
+  - Arbeitsbereich: Boards und Aktionspakete
+  - Wissen: Notizbücher, Kapitel und Seiten
+  - Analytics: 
+  - Archiv: Abgeschlossene Aktionspakete und archivierte Notizbücher und Seiten
+  - Admin: Nutzer- und Abonnement-Verwaltung
