@@ -1,4 +1,4 @@
 
 # Contents
 
-[test] (test.md)
+[test](test.md)
