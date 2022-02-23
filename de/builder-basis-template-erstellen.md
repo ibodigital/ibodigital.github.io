@@ -1,5 +1,5 @@
 
-Builder: Template erstelen
+## Builder: Template anlegen, bearbeiten und veröffentlichen
 
 Um ein Template zu erstellen gehen wir wie folgt vor:
 
