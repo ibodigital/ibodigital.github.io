@@ -18,6 +18,7 @@ Wir versuchen Ihre Frage so schnell wie möglich zu beantworten.
   - Aktionspaket wiederfinden
   - Template anpassen
 - Die wichtigsten Grundlagen und Bereiche für trustkey-Abläufe
+  - Rollen und Rechte
   - Arbeitsbereich: Boards und Aktionspakete
   - Wissen: Notizbücher, Kapitel und Seiten
   - Analytics: 
