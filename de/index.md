@@ -23,3 +23,5 @@ Wir versuchen Ihre Frage so schnell wie möglich zu beantworten.
   - Analytics: 
   - Archiv: Abgeschlossene Aktionspakete und archivierte Notizbücher und Seiten
   - Admin: Nutzer- und Abonnement-Verwaltung
+
+A Glossar (oder: Was bedeutet noch mal ...?)
