@@ -6,9 +6,14 @@ Jede Information hat eine eindeutige (fortlaufende) Kennung. Anhand des Buchstab
 Im Folgenden sind die Kennungen beschrieben.
 
 A- ... Aktionspaket (erzeugt im Arbeitsbereich)
+
 D- ... Kategorie (Dimension) (erzeugt im Builder)
+
 L- ... Label (erzeugt im Builder)
+
 T- ... Template (erzeugt im Builder)
+
 O- ... Gruppe (Organisiationsgruppe) (erzeugt im Admin Center)
+
 U- ... Benutzer (User) (erzeugt im Admin Center)
 
